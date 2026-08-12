@@ -1,0 +1,7 @@
+Package: btop
+Section: utils
+Priority: optional
+Maintainer: coplo <dayearnew@gmail.com>
+Homepage: https://github.com/aristocratos/btop
+Description: Resource monitor with a terminal user interface
+ btop is packaged directly from the official upstream Linux release binary.
